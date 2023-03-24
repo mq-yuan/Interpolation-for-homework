@@ -8,6 +8,8 @@
 
 本次实验主要关注：最近邻插值(Nearest neighbor interpolation)、双线性插值(Bilinear interpolation)和径向基函数插值(RBF interpolation)，其中径向基函数插值选用TPS(thin plate spline)和Gaussian两种径向基函数。
 
+仅作学习参考，请不要直接抄袭，只有自己完成相应实验，才能真正地学习到知识。
+
 ## 环境依赖
 
 - `pip install -r requirements.txt`.
