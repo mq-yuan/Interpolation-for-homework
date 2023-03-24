@@ -1,4 +1,4 @@
-![](https://typora-ilgzh.oss-cn-beijing.aliyuncs.com/202303241405754.png)
+![](https://typora-ilgzh.oss-cn-beijing.aliyuncs.com/202303241424868.png)
 
 # 图像插值
 
