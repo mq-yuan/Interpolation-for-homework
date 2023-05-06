@@ -21,7 +21,7 @@ def select_file(select_path):
 def get_upscale_mask(upscale_ratio, img_shape):
     mask = np.zeros(img_shape)
     for i in range(mask.shape[0]):
-        for j in range(mask.shape[0]):
+        for j in range(mask.shape[1]):
             if i%upscale_ratio==0 and j%upscale_ratio==0: mask[i, j] = 255
     return mask
 
